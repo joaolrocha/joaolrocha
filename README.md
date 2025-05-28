@@ -7,7 +7,7 @@ Full Stack Developer
 Hello, I'm João Rocha. I'm married, a pet parent, and a full-stack developer passionate about technology. I made a career transition in 2020, and since then, I've been dedicated to developing web and mobile solutions. I use TypeScript, React.js, VueJs, Angular, Node.js, and NestJS to build robust and scalable systems. I work with tools like Jira Software, Bitbucket, Styled Components, and SCSS to deliver high-quality solutions. If you're looking for a committed and proactive developer, it would be a pleasure to connect and explore collaboration opportunities.
 
 * 🌍  I'm based in Maceió - Alagoas
-* 🖥️  See my portfolio at Vercel (https://my-portfolio-theta-six-31.vercel.app/en)
+* 🖥️  See my portfolio at [Vercel](https://my-portfolio-theta-six-31.vercel.app/en)
 * ✉️  You can contact me at [joaolrocha07@gmail.com](mailto:joaolrocha07@gmail.com)
 * 🚀  I'm currently working on [Genesis Tecnologia](http://gtecnologia.com.br/)
 
