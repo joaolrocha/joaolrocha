@@ -9,7 +9,7 @@ Hello, I'm João Rocha. I'm married, a pet parent, and a full-stack developer pa
 * 🌍  I'm based in Maceió - Alagoas
 * 🖥️  See my portfolio at [Vercel](https://my-portfolio-theta-six-31.vercel.app/en)
 * ✉️  You can contact me at [joaolrocha07@gmail.com](mailto:joaolrocha07@gmail.com)
-* 🚀  I'm currently working on [Genesis Tecnologia](http://gtecnologia.com.br/)
+* 🚀  I'm currently working on [Santri Soluções](http://gtecnologia.com.br/](https://santri.com.br/))
 
 ### Skills
 
